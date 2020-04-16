@@ -1,6 +1,10 @@
 # lab5-autograder
 Autograder for lab5
 
+## Caution
+
+**Need to run within Brown Network**
+
 ## Usage
 
 usage: autograde.py [-h] -t {mongo,mysql} filepath
