@@ -19,7 +19,7 @@ optional arguments:
 ### Example
 
 ```
-python3 autograder.py -t=mongo >filepath-to-database-script>
+python3 autograder.py -t=mongo <filepath-to-database-script>
 ```
 
 ```
